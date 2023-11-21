@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890011278756",
+    "project_id": "i-scan-45ea6",
+    "storage_bucket": "i-scan-45ea6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890011278756:android:97115f57a463d0afed3531",
+        "android_client_info": {
+          "package_name": "com.dyep.i.scan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi9Juun7cKWRtWRA9DmgWAo-xylx1wIwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
